@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**Jalx/Jalx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alexis. I'm a Passionate Full-Stack Developer Building Custom Integrations and Web Apps
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Lead Backend Engineer at The Orange Box Agency
+- 💬 Ask me about serverless and custom integrations! I love connecting services and building complex solutions using AWS SAM
+- 🗞️ Javascript / PHP / Node.js
+- 💻 MacOS / Windows
+- 🗣️ English / Spanish (Native)
+
+#### Tech Skills
+
+- PHP / Node.js / Javascript
+- Next.js / Nuxt / Laravel / Symfony / Express
+- React / Vue.js
+- PostgreSQL / Redis / MariaDB / DynamoDB
+- AWS (Lambda/SQS/Lightsail/EC2) / DigitalOcean / Vultr
+- Git / Docker / AWS SAM
+- Wordpress / HubSpot / Squarespace / AWS SAM
